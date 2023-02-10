@@ -1,5 +1,4 @@
 #include "shell.h"
-#include <sys/wait.h>
 
 /**
  * clear_info - initializes info_t struct
